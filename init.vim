@@ -5,6 +5,7 @@ set mouse=a
 set numberwidth=1
 set clipboard=unnamed
 syntax on
+filetype indent on
 set showcmd
 set ruler
 "set cursorline

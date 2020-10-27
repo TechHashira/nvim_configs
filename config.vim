@@ -13,6 +13,8 @@ Plug 'flowtype/vim-flow'
 Plug 'maximbaz/lightline-ale'
 Plug 'itchyny/lightline.vim'
 Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'tpope/vim-fugitive'
 " Themes
 Plug 'morhetz/gruvbox'
 Plug 'shinchu/lightline-gruvbox.vim'
@@ -20,7 +22,6 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'joshdick/onedark.vim'
 " Tree
 Plug 'scrooloose/nerdtree'
-
 " typing
 Plug 'alvan/vim-closetag'
 Plug 'jiangmiao/auto-pairs'

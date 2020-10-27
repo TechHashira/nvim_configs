@@ -22,8 +22,11 @@ let g:lightline = {
       \   'right': ''
       \ }
       \}
+let g:airline_theme = 'powerlineish'
 let g:airline_powerline_fonts = 1
-" Add spaces after comment delimiters by default
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#branch#enabled = 1
+"Add spaces after comment delimiters by default
 let g:NERDSpaceDelims = 1
 
 " Use compact syntax for prettified multi-line comments
