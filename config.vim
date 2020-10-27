@@ -12,11 +12,12 @@ Plug 'flowtype/vim-flow'
 " status bar
 Plug 'maximbaz/lightline-ale'
 Plug 'itchyny/lightline.vim'
-
+Plug 'vim-airline/vim-airline'
 " Themes
 Plug 'morhetz/gruvbox'
 Plug 'shinchu/lightline-gruvbox.vim'
 Plug 'ryanoasis/vim-devicons'
+Plug 'joshdick/onedark.vim'
 " Tree
 Plug 'scrooloose/nerdtree'
 

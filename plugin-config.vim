@@ -16,12 +16,13 @@ let g:lightline = {
       \   'gitbranch': 'fugitive#head',
       \   'cocstatus': 'coc#status'
       \ },
-      \ 'colorscheme': 'gruvbox',
+      \ 'colorscheme': 'onedark',
       \ 'subseparator': {
       \   'left': '',
       \   'right': ''
       \ }
       \}
+let g:airline_powerline_fonts = 1
 " Add spaces after comment delimiters by default
 let g:NERDSpaceDelims = 1
 
