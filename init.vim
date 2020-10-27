@@ -20,11 +20,10 @@ so ~/.config/nvim/plugin-config.vim
 
 
 set termguicolors
-"
-"colorscheme gruvbox
-"let g:gruvbox_contrast_dark = "hard"
-"set bg=dark
-colorscheme onedark
+let g:gruvbox_contrast_dark = "medium"
+colorscheme gruvbox
+set bg=light
+"colorscheme onedark
 
 set laststatus=2
 set noshowmode
